@@ -290,6 +290,14 @@ El archivo utilizado para la publicación se encuentra en:
 
 ```text
 docs/index.html
+```
+
+Adicionalmente, se conserva una copia local del informe en:
+
+```text
+report/informe_mca_monitoreo.html
+```
+
 
 ---
 
