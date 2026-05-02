@@ -280,19 +280,16 @@ python 08_generar_informe_html.py
 
 ---
 
-## Informe ejecutivo
+## Informe ejecutivo publicado
 
-El informe HTML del proyecto se genera en:
+El informe HTML del proyecto está publicado mediante GitHub Pages y puede revisarse en el siguiente enlace:
 
-```text
-report/informe_mca_monitoreo.html
-```
+[Ver informe ejecutivo](https://koke-oliva.github.io/monitoreo-mca-alertas-tempranas/)
 
-Y la versión preparada para GitHub Pages se genera en:
+El archivo utilizado para la publicación se encuentra en:
 
 ```text
 docs/index.html
-```
 
 ---
 
