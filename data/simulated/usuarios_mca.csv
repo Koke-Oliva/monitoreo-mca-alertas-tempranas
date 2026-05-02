@@ -1,0 +1,81 @@
+﻿id_usuario,sexo,edad,tramo_edad,comuna,fecha_ingreso,causal_ingreso,estado_caso,profesional_responsable,fecha_ultimo_contacto
+U001,Masculino,17,16-17,Coronel,2025-04-13,Otra causal,Vigente,Profesional A,2026-03-12
+U002,Femenino,16,16-17,Lota,2026-03-12,Ley de drogas,Suspendido,Profesional C,2026-03-22
+U003,Femenino,13,Fuera de rango,San Pedro de la Paz,2025-12-15,Ley de drogas,Vigente,Profesional D,2026-04-27
+U004,Femenino,16,16-17,San Pedro de la Paz,2025-09-28,Ley de control de armas,Vigente,Profesional A,2026-04-29
+U005,Masculino,15,14-15,Chiguayante,2025-04-17,Ley de drogas,Egresado,Profesional D,2026-04-25
+U006,Masculino,16,16-17,Hualpén,2025-03-13,Delitos contra la propiedad,Egresado,Profesional C,2026-03-08
+U007,Masculino,20,18-21,Chiguayante,2025-07-08,Otra causal,Vigente,Profesional A,2026-03-20
+U008,Masculino,22,Fuera de rango,Chiguayante,2025-01-21,Delitos contra las personas,Vigente,Profesional D,2026-04-27
+U009,Masculino,17,16-17,Chiguayante,2025-04-13,Ley de drogas,Vigente,Profesional A,2026-03-08
+U010,Masculino,20,18-21,Chiguayante,2025-05-02,Delitos contra la propiedad,Vigente,Profesional C,2026-04-02
+U011,Masculino,17,16-17,,2026-04-12,Delitos contra las personas,Suspendido,Profesional D,2026-04-13
+U012,Femenino,14,14-15,Talcahuano,2025-08-03,Otra causal,Egresado,Profesional A,2026-04-05
+U013,Masculino,14,14-15,San Pedro de la Paz,2025-11-27,Delitos contra las personas,Vigente,Profesional C,2026-03-18
+U014,Masculino,20,18-21,Chiguayante,2026-04-04,Delitos contra la propiedad,Vigente,Profesional A,2026-03-28
+U015,Masculino,15,14-15,San Pedro de la Paz,2025-03-29,Delitos contra las personas,Suspendido,Profesional A,2026-04-21
+U016,Masculino,14,14-15,San Pedro de la Paz,2026-01-08,Ley de control de armas,Vigente,,2026-03-26
+U017,Masculino,16,16-17,Concepción,2025-04-10,Delitos contra las personas,Vigente,Profesional B,2026-04-17
+U018,Masculino,17,16-17,Talcahuano,2025-12-26,Ley de drogas,Vigente,Profesional C,2026-03-31
+U019,Masculino,14,14-15,Chiguayante,2025-06-01,Ley de drogas,Vigente,Profesional B,2026-03-14
+U020,Femenino,14,14-15,Coronel,2025-05-11,Ley de control de armas,Suspendido,Profesional C,2026-04-16
+U020,Masculino,15,14-15,Lota,2025-05-30,Delitos contra la propiedad,Suspendido,Profesional B,2026-04-23
+U022,Masculino,20,18-21,Hualpén,2025-11-05,Ley de drogas,Egresado,Profesional A,2026-04-17
+U023,Femenino,20,18-21,Coronel,2025-09-15,Otra causal,Vigente,Profesional C,2026-04-08
+U024,Masculino,19,18-21,Talcahuano,2025-12-10,Ley de drogas,Egresado,Profesional C,2026-03-05
+U025,Masculino,15,14-15,Lota,2026-02-18,Ley de drogas,Vigente,Profesional A,2026-03-22
+U026,Masculino,16,16-17,Talcahuano,2025-10-21,Delitos contra la propiedad,Vigente,Profesional C,2026-04-10
+U027,Masculino,20,18-21,San Pedro de la Paz,2026-01-21,Delitos contra las personas,Vigente,Profesional C,2026-04-15
+U028,Masculino,17,16-17,Lota,2025-07-11,Ley de drogas,Egresado,Profesional B,2026-03-17
+U029,Masculino,15,14-15,San Pedro de la Paz,2026-03-20,Ley de control de armas,Egresado,Profesional C,2026-04-13
+U030,Femenino,14,14-15,Coronel,2025-10-04,Delitos contra las personas,Vigente,Profesional D,2026-03-15
+U031,Masculino,17,16-17,Coronel,2025-06-10,Otra causal,Egresado,Profesional A,2026-03-09
+U032,Masculino,17,16-17,Lota,2026-04-05,Delitos contra la propiedad,Vigente,Profesional B,2026-04-07
+U033,Masculino,14,14-15,Lota,2025-11-10,Otra causal,Vigente,Profesional B,2026-04-05
+U034,Femenino,15,14-15,Chiguayante,2025-01-22,Delitos contra las personas,Vigente,Profesional D,2026-04-06
+U035,Masculino,14,14-15,Talcahuano,2025-09-10,Delitos contra las personas,Vigente,Profesional A,2026-03-17
+U036,Masculino,19,18-21,Chiguayante,2025-08-24,Delitos contra las personas,Vigente,Profesional A,2026-03-21
+U037,Masculino,17,16-17,Talcahuano,2025-12-11,Otra causal,Vigente,Profesional B,2026-04-02
+U038,Masculino,18,18-21,Chiguayante,2025-02-18,Delitos contra las personas,Vigente,Profesional C,2026-04-16
+U039,Masculino,18,18-21,San Pedro de la Paz,2025-02-28,Otra causal,Vigente,Profesional B,2026-03-17
+U040,Masculino,16,16-17,Lota,2025-06-19,Delitos contra las personas,Vigente,Profesional A,2026-04-30
+U041,Masculino,20,18-21,Coronel,2025-07-07,Ley de control de armas,Vigente,Profesional D,2026-04-06
+U042,Masculino,14,14-15,Talcahuano,2026-04-09,Delitos contra las personas,Vigente,Profesional B,2026-04-24
+U043,Masculino,14,14-15,Talcahuano,2025-09-28,Otra causal,Vigente,Profesional A,2026-04-22
+U044,Masculino,16,16-17,Coronel,2025-07-09,Ley de drogas,Vigente,Profesional B,2026-04-07
+U045,Masculino,16,16-17,Chiguayante,2026-03-22,Delitos contra las personas,Vigente,Profesional C,2026-04-30
+U046,Masculino,16,16-17,Talcahuano,2025-06-24,Ley de drogas,Vigente,Profesional B,2026-03-18
+U047,Masculino,17,16-17,Hualpén,2026-03-22,Ley de control de armas,Vigente,Profesional B,2026-04-23
+U048,Masculino,19,18-21,San Pedro de la Paz,2025-02-20,Delitos contra la propiedad,Suspendido,Profesional A,2026-04-07
+U049,Masculino,14,14-15,Lota,2025-12-30,Ley de control de armas,Vigente,Profesional A,2026-04-20
+U050,Masculino,17,16-17,Coronel,2025-02-24,Delitos contra las personas,Vigente,Profesional A,2026-03-11
+U051,Masculino,16,16-17,Lota,2025-09-01,Ley de drogas,Suspendido,Profesional B,2026-04-14
+U052,Masculino,14,14-15,Hualpén,2025-11-16,Ley de drogas,Vigente,Profesional C,2026-04-23
+U053,Masculino,17,16-17,Talcahuano,2025-05-11,Otra causal,Vigente,Profesional D,2026-03-27
+U054,Masculino,19,18-21,Talcahuano,2025-11-03,Ley de drogas,Vigente,Profesional D,2026-03-27
+U055,Masculino,17,16-17,Hualpén,2025-05-15,Otra causal,Vigente,Profesional A,2026-03-29
+U056,Femenino,19,18-21,Coronel,2025-01-21,Delitos contra la propiedad,Egresado,Profesional A,2026-03-03
+U057,Masculino,16,16-17,San Pedro de la Paz,2025-11-25,Delitos contra las personas,Vigente,Profesional B,2026-04-26
+U058,Femenino,19,18-21,Concepción,2025-06-16,Otra causal,Vigente,Profesional D,2026-03-20
+U059,Masculino,14,14-15,Coronel,2025-10-01,Delitos contra la propiedad,Vigente,Profesional A,2026-03-23
+U060,Masculino,16,16-17,Concepción,2026-01-23,Ley de drogas,Egresado,Profesional C,2026-03-04
+U061,Masculino,14,14-15,Hualpén,2025-03-30,Ley de drogas,Vigente,Profesional C,2026-03-21
+U062,Masculino,18,18-21,Chiguayante,2025-11-12,Delitos contra la propiedad,Vigente,Profesional A,2026-04-03
+U063,Masculino,15,14-15,Concepción,2025-01-14,Ley de drogas,Vigente,Profesional A,2026-04-24
+U064,Masculino,19,18-21,San Pedro de la Paz,2025-08-30,Delitos contra la propiedad,Egresado,Profesional D,2026-04-22
+U065,Masculino,15,14-15,Chiguayante,2025-09-22,Otra causal,Vigente,Profesional D,2026-04-23
+U066,Masculino,15,14-15,Concepción,2025-12-12,Otra causal,Vigente,Profesional B,2026-04-19
+U067,Masculino,19,18-21,Hualpén,2025-02-22,Delitos contra la propiedad,Vigente,Profesional D,2026-03-28
+U068,Masculino,16,16-17,Chiguayante,2026-01-21,Otra causal,Vigente,Profesional C,2026-03-29
+U069,Masculino,18,18-21,Hualpén,2025-12-06,Otra causal,Vigente,Profesional C,2026-03-14
+U070,Masculino,14,14-15,Concepción,2025-04-02,Otra causal,Vigente,Profesional A,2026-03-07
+U071,Femenino,17,16-17,Hualpén,2026-01-02,Ley de control de armas,Vigente,Profesional D,2026-04-08
+U072,Masculino,14,14-15,San Pedro de la Paz,2026-03-20,Delitos contra las personas,Vigente,Profesional B,2026-04-07
+U073,Femenino,17,16-17,Concepción,2026-03-31,Ley de drogas,Suspendido,Profesional C,2026-03-25
+U074,Masculino,14,14-15,Concepción,2026-03-04,Ley de control de armas,Egresado,Profesional C,2026-03-27
+U075,Femenino,19,18-21,Concepción,2025-09-21,Otra causal,Vigente,Profesional B,2026-03-18
+U076,Femenino,18,18-21,Coronel,2026-03-07,Delitos contra la propiedad,Suspendido,Profesional B,2026-03-22
+U077,Masculino,17,16-17,Coronel,2025-02-04,Otra causal,Vigente,Profesional C,2026-04-09
+U078,Masculino,20,18-21,Coronel,2025-07-25,Delitos contra las personas,Vigente,Profesional C,2026-04-04
+U079,Masculino,16,16-17,San Pedro de la Paz,2025-03-22,Otra causal,Vigente,Profesional B,2026-03-27
+U080,Femenino,14,14-15,Chiguayante,2026-02-24,Delitos contra la propiedad,Vigente,Profesional C,2026-04-30

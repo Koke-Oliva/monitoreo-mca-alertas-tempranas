@@ -1,0 +1,218 @@
+﻿id_control,id_usuario,fecha_control,tipo_control,asistencia,dias_para_control,observacion
+C0001,U001,2025-09-24,Revisión de medida,No asiste,-219,Registro sintético de control o audiencia
+C0002,U002,2026-09-02,Citación,No asiste,124,Registro sintético de control o audiencia
+C0003,U002,2026-06-12,Audiencia,Asiste,42,Registro sintético de control o audiencia
+C0004,U002,2026-12-05,Audiencia,Justificada,218,Registro sintético de control o audiencia
+C0005,U003,2026-09-18,Audiencia,Asiste,140,Registro sintético de control o audiencia
+C0006,U003,2026-02-09,Control técnico,Asiste,-81,Registro sintético de control o audiencia
+C0007,U003,2026-08-27,Citación,Justificada,118,Registro sintético de control o audiencia
+C0008,U004,2025-10-31,Revisión de medida,No asiste,-182,Registro sintético de control o audiencia
+C0009,U004,2025-11-23,Revisión de medida,Asiste,-159,Registro sintético de control o audiencia
+C0010,U004,2025-11-17,Revisión de medida,Asiste,-165,Registro sintético de control o audiencia
+C0011,U004,2026-03-25,Citación,Asiste,-37,Registro sintético de control o audiencia
+C0012,U005,2025-07-10,Audiencia,Asiste,-295,Registro sintético de control o audiencia
+C0013,U006,2025-05-15,Revisión de medida,Asiste,-351,Registro sintético de control o audiencia
+C0014,U007,2025-08-18,Revisión de medida,Asiste,-256,Registro sintético de control o audiencia
+C0015,U008,2025-08-23,Control técnico,Asiste,-251,Registro sintético de control o audiencia
+C0016,U008,2025-04-03,Citación,Asiste,-393,Registro sintético de control o audiencia
+C0017,U009,2025-11-28,Revisión de medida,Asiste,-154,Registro sintético de control o audiencia
+C0018,U009,2025-11-22,Citación,No asiste,-160,Registro sintético de control o audiencia
+C0019,U010,2025-09-09,Revisión de medida,Asiste,-234,Registro sintético de control o audiencia
+C0020,U010,2025-06-21,Audiencia,Asiste,-314,Registro sintético de control o audiencia
+C0021,U011,2026-11-20,Control técnico,Asiste,203,Registro sintético de control o audiencia
+C0022,U011,2026-08-25,Citación,No asiste,116,Registro sintético de control o audiencia
+C0023,U011,2026-09-18,Revisión de medida,Asiste,140,Registro sintético de control o audiencia
+C0024,U012,2025-08-20,Revisión de medida,Asiste,-254,Registro sintético de control o audiencia
+C0025,U012,2026-05-23,Revisión de medida,Justificada,22,Registro sintético de control o audiencia
+C0026,U012,2025-12-13,Audiencia,No asiste,-139,Registro sintético de control o audiencia
+C0027,U012,2026-04-22,Revisión de medida,Asiste,-9,Registro sintético de control o audiencia
+C0028,U013,2026-05-09,Revisión de medida,Asiste,8,Registro sintético de control o audiencia
+C0029,U013,2026-07-30,Revisión de medida,Asiste,90,Registro sintético de control o audiencia
+C0030,U014,2026-05-26,Revisión de medida,Asiste,25,Registro sintético de control o audiencia
+C0031,U014,2026-09-07,Revisión de medida,Asiste,129,Registro sintético de control o audiencia
+C0032,U014,2026-08-10,Audiencia,Asiste,101,Registro sintético de control o audiencia
+C0033,U014,2027-01-01,Citación,Asiste,245,Registro sintético de control o audiencia
+C0034,U015,2025-10-09,Control técnico,Asiste,-204,Registro sintético de control o audiencia
+C0035,U016,2026-10-11,Citación,No asiste,163,Registro sintético de control o audiencia
+C0036,U016,2026-06-14,Control técnico,Asiste,44,Registro sintético de control o audiencia
+C0037,U016,2026-09-23,Control técnico,Asiste,145,Registro sintético de control o audiencia
+C0038,U016,2026-03-12,Control técnico,Asiste,-50,Registro sintético de control o audiencia
+C0039,U017,2025-09-29,Revisión de medida,Asiste,-214,Registro sintético de control o audiencia
+C0040,U018,2026-05-23,Citación,No asiste,22,Registro sintético de control o audiencia
+C0041,U018,2026-01-23,Audiencia,Asiste,-98,Registro sintético de control o audiencia
+C0042,U019,2025-08-20,Citación,Asiste,-254,Registro sintético de control o audiencia
+C0043,U019,2026-01-07,Revisión de medida,Asiste,-114,Registro sintético de control o audiencia
+C0044,U019,2026-03-08,Audiencia,Asiste,-54,Registro sintético de control o audiencia
+C0045,U020,2025-11-05,Citación,Asiste,-177,Registro sintético de control o audiencia
+C0046,U020,2026-02-06,Audiencia,Asiste,-84,Registro sintético de control o audiencia
+C0047,U020,2025-07-08,Audiencia,Asiste,-297,Registro sintético de control o audiencia
+C0048,U022,2025-12-14,Citación,Justificada,-138,Registro sintético de control o audiencia
+C0049,U022,2025-12-01,Revisión de medida,Asiste,-151,Registro sintético de control o audiencia
+C0050,U022,2026-02-19,Audiencia,Justificada,-71,Registro sintético de control o audiencia
+C0051,U022,2025-12-09,Control técnico,Asiste,-143,Registro sintético de control o audiencia
+C0052,U023,2026-03-08,Audiencia,Asiste,-54,Registro sintético de control o audiencia
+C0053,U023,2026-02-06,Revisión de medida,Asiste,-84,Registro sintético de control o audiencia
+C0054,U023,2025-10-04,Citación,Asiste,-209,Registro sintético de control o audiencia
+C0055,U024,2026-05-03,Control técnico,Justificada,2,Registro sintético de control o audiencia
+C0056,U025,2026-04-29,Citación,Justificada,-2,Registro sintético de control o audiencia
+C0057,U026,2026-02-11,Audiencia,Asiste,-79,Registro sintético de control o audiencia
+C0058,U026,2026-05-13,Control técnico,Asiste,12,Registro sintético de control o audiencia
+C0059,U026,2026-01-23,Revisión de medida,Asiste,-98,Registro sintético de control o audiencia
+C0060,U027,2026-10-22,Citación,Asiste,174,Registro sintético de control o audiencia
+C0061,U027,2026-05-16,Citación,Asiste,15,Registro sintético de control o audiencia
+C0062,U027,2026-09-13,Revisión de medida,Asiste,135,Registro sintético de control o audiencia
+C0063,U027,2026-09-23,Control técnico,Asiste,145,Registro sintético de control o audiencia
+C0064,U028,2026-02-01,Control técnico,Asiste,-89,Registro sintético de control o audiencia
+C0065,U028,2025-08-01,Citación,Asiste,-273,Registro sintético de control o audiencia
+C0066,U028,2025-08-08,Citación,No asiste,-266,Registro sintético de control o audiencia
+C0067,U028,2025-10-19,Audiencia,Asiste,-194,Registro sintético de control o audiencia
+C0068,U029,2026-06-04,Citación,Asiste,34,Registro sintético de control o audiencia
+C0069,U029,2026-11-19,Citación,Asiste,202,Registro sintético de control o audiencia
+C0070,U030,2025-12-22,Audiencia,Asiste,-130,Registro sintético de control o audiencia
+C0071,U030,2026-06-17,Audiencia,Justificada,47,Registro sintético de control o audiencia
+C0072,U030,2026-04-09,Revisión de medida,Asiste,-22,Registro sintético de control o audiencia
+C0073,U031,2025-12-29,Citación,Asiste,-123,Registro sintético de control o audiencia
+C0074,U031,2026-03-07,Citación,Asiste,-55,Registro sintético de control o audiencia
+C0075,U031,2026-01-06,Control técnico,Asiste,-115,Registro sintético de control o audiencia
+C0076,U032,2026-07-10,Revisión de medida,No asiste,70,Registro sintético de control o audiencia
+C0077,U032,2026-11-26,Revisión de medida,No asiste,209,Registro sintético de control o audiencia
+C0078,U032,2026-05-31,Audiencia,Justificada,30,Registro sintético de control o audiencia
+C0079,U032,2026-08-10,Audiencia,Asiste,101,Registro sintético de control o audiencia
+C0080,U033,2026-04-02,Control técnico,Asiste,-29,Registro sintético de control o audiencia
+C0081,U033,2025-12-23,Audiencia,No asiste,-129,Registro sintético de control o audiencia
+C0082,U033,2026-07-14,Audiencia,No asiste,74,Registro sintético de control o audiencia
+C0083,U033,2026-07-29,Control técnico,Asiste,89,Registro sintético de control o audiencia
+C0084,U034,2025-08-24,Audiencia,Asiste,-250,Registro sintético de control o audiencia
+C0085,U034,2025-07-28,Citación,Asiste,-277,Registro sintético de control o audiencia
+C0086,U035,2025-12-20,Audiencia,Asiste,-132,Registro sintético de control o audiencia
+C0087,U035,2026-04-12,Audiencia,No asiste,-19,Registro sintético de control o audiencia
+C0088,U035,2026-01-11,Citación,Asiste,-110,Registro sintético de control o audiencia
+C0089,U035,2026-02-23,Audiencia,Justificada,-67,Registro sintético de control o audiencia
+C0090,U036,2026-04-27,Control técnico,Asiste,-4,Registro sintético de control o audiencia
+C0091,U037,2026-05-13,Revisión de medida,No asiste,12,Registro sintético de control o audiencia
+C0092,U037,2026-01-22,Citación,Asiste,-99,Registro sintético de control o audiencia
+C0093,U037,2026-09-12,Audiencia,Asiste,134,Registro sintético de control o audiencia
+C0094,U037,2026-01-02,Revisión de medida,Asiste,-119,Registro sintético de control o audiencia
+C0095,U038,2025-10-10,Audiencia,Asiste,-203,Registro sintético de control o audiencia
+C0096,U038,2025-11-15,Revisión de medida,Asiste,-167,Registro sintético de control o audiencia
+C0097,U038,2025-04-22,Revisión de medida,Asiste,-374,Registro sintético de control o audiencia
+C0098,U039,2025-06-27,Audiencia,Justificada,-308,Registro sintético de control o audiencia
+C0099,U039,2025-07-11,Control técnico,No asiste,-294,Registro sintético de control o audiencia
+C0100,U040,2025-11-29,Revisión de medida,Asiste,-153,Registro sintético de control o audiencia
+C0101,U040,2026-03-18,Control técnico,Asiste,-44,Registro sintético de control o audiencia
+C0102,U041,2026-03-04,Citación,Asiste,-58,Registro sintético de control o audiencia
+C0103,U041,2026-04-20,Revisión de medida,Asiste,-11,Registro sintético de control o audiencia
+C0104,U041,2025-12-21,Revisión de medida,Asiste,-131,Registro sintético de control o audiencia
+C0105,U041,2025-11-22,Control técnico,Asiste,-160,Registro sintético de control o audiencia
+C0106,U042,2026-11-22,Revisión de medida,Asiste,205,Registro sintético de control o audiencia
+C0107,U042,2026-10-14,Audiencia,Asiste,166,Registro sintético de control o audiencia
+C0108,U043,2026-02-11,Revisión de medida,Asiste,-79,Registro sintético de control o audiencia
+C0109,U043,2025-11-20,Audiencia,Asiste,-162,Registro sintético de control o audiencia
+C0110,U043,2025-10-30,Audiencia,No asiste,-183,Registro sintético de control o audiencia
+C0111,U044,2025-11-26,Revisión de medida,No asiste,-156,Registro sintético de control o audiencia
+C0112,U045,2026-08-18,Citación,Asiste,109,Registro sintético de control o audiencia
+C0113,U045,2026-10-25,Revisión de medida,Asiste,177,Registro sintético de control o audiencia
+C0114,U046,2025-07-30,Revisión de medida,Asiste,-275,Registro sintético de control o audiencia
+C0115,U046,2026-03-23,Audiencia,Asiste,-39,Registro sintético de control o audiencia
+C0116,U046,2026-04-17,Control técnico,Asiste,-14,Registro sintético de control o audiencia
+C0117,U047,2026-07-02,Revisión de medida,No asiste,62,Registro sintético de control o audiencia
+C0118,U047,2026-09-23,Audiencia,Asiste,145,Registro sintético de control o audiencia
+C0119,U047,2026-10-06,Citación,Asiste,158,Registro sintético de control o audiencia
+C0120,U048,2025-03-29,Audiencia,Asiste,-398,Registro sintético de control o audiencia
+C0121,U048,2025-06-22,Citación,No asiste,-313,Registro sintético de control o audiencia
+C0122,U048,2025-10-21,Citación,Asiste,-192,Registro sintético de control o audiencia
+C0123,U049,2026-06-06,Revisión de medida,Asiste,36,Registro sintético de control o audiencia
+C0124,U049,2026-10-01,Citación,Justificada,153,Registro sintético de control o audiencia
+C0125,U050,2025-10-20,Revisión de medida,No asiste,-193,Registro sintético de control o audiencia
+C0126,U050,2025-03-20,Audiencia,No asiste,-407,Registro sintético de control o audiencia
+C0127,U050,2025-10-27,Citación,Asiste,-186,Registro sintético de control o audiencia
+C0128,U050,2025-06-30,Audiencia,Asiste,-305,Registro sintético de control o audiencia
+C0129,U051,2025-12-10,Control técnico,No asiste,-142,Registro sintético de control o audiencia
+C0130,U051,2025-11-08,Revisión de medida,No asiste,-174,Registro sintético de control o audiencia
+C0131,U051,2025-09-29,Audiencia,Justificada,-214,Registro sintético de control o audiencia
+C0132,U051,2025-10-05,Citación,No asiste,-208,Registro sintético de control o audiencia
+C0133,U052,2026-02-08,Revisión de medida,Asiste,-82,Registro sintético de control o audiencia
+C0134,U052,2026-06-04,Revisión de medida,Asiste,34,Registro sintético de control o audiencia
+C0135,U052,2026-04-11,Revisión de medida,No asiste,-20,Registro sintético de control o audiencia
+C0136,U053,2026-01-07,Control técnico,Asiste,-114,Registro sintético de control o audiencia
+C0137,U053,2025-12-13,Control técnico,Asiste,-139,Registro sintético de control o audiencia
+C0138,U054,2026-01-13,Audiencia,Asiste,-108,Registro sintético de control o audiencia
+C0139,U054,2026-03-16,Citación,Asiste,-46,Registro sintético de control o audiencia
+C0140,U054,2025-12-01,Citación,Asiste,-151,Registro sintético de control o audiencia
+C0141,U054,2026-05-22,Citación,Asiste,21,Registro sintético de control o audiencia
+C0142,U055,2026-02-07,Revisión de medida,Asiste,-83,Registro sintético de control o audiencia
+C0143,U055,2025-08-19,Citación,Asiste,-255,Registro sintético de control o audiencia
+C0144,U055,2025-07-28,Citación,Asiste,-277,Registro sintético de control o audiencia
+C0145,U055,2025-12-26,Control técnico,Asiste,-126,Registro sintético de control o audiencia
+C0146,U056,2025-03-06,Control técnico,Asiste,-421,Registro sintético de control o audiencia
+C0147,U056,2025-08-15,Citación,Asiste,-259,Registro sintético de control o audiencia
+C0148,U056,2025-09-20,Control técnico,Asiste,-223,Registro sintético de control o audiencia
+C0149,U056,2025-08-06,Audiencia,Asiste,-268,Registro sintético de control o audiencia
+C0150,U057,2026-04-01,Citación,No asiste,-30,Registro sintético de control o audiencia
+C0151,U057,2026-04-06,Audiencia,Asiste,-25,Registro sintético de control o audiencia
+C0152,U057,2026-06-25,Revisión de medida,Asiste,55,Registro sintético de control o audiencia
+C0153,U057,2026-01-25,Citación,Asiste,-96,Registro sintético de control o audiencia
+C0154,U058,2025-09-16,Revisión de medida,Asiste,-227,Registro sintético de control o audiencia
+C0155,U058,2025-11-14,Control técnico,Asiste,-168,Registro sintético de control o audiencia
+C0156,U058,2025-08-30,Control técnico,Asiste,-244,Registro sintético de control o audiencia
+C0157,U059,2026-01-30,Audiencia,Asiste,-91,Registro sintético de control o audiencia
+C0158,U060,2026-08-23,Audiencia,Justificada,114,Registro sintético de control o audiencia
+C0159,U060,2026-03-29,Audiencia,Asiste,-33,Registro sintético de control o audiencia
+C0160,U061,2025-06-21,Audiencia,Asiste,-314,Registro sintético de control o audiencia
+C0161,U061,2025-06-01,Audiencia,Asiste,-334,Registro sintético de control o audiencia
+C0162,U061,2025-12-30,Revisión de medida,Asiste,-122,Registro sintético de control o audiencia
+C0163,U062,2026-04-01,Citación,Justificada,-30,Registro sintético de control o audiencia
+C0164,U062,2026-04-04,Revisión de medida,No asiste,-27,Registro sintético de control o audiencia
+C0165,U062,2026-05-27,Control técnico,Asiste,26,Registro sintético de control o audiencia
+C0166,U062,2026-06-02,Audiencia,No asiste,32,Registro sintético de control o audiencia
+C0167,U063,2025-03-05,Audiencia,Asiste,-422,Registro sintético de control o audiencia
+C0168,U063,2025-05-14,Control técnico,Asiste,-352,Registro sintético de control o audiencia
+C0169,U063,2025-07-10,Citación,Justificada,-295,Registro sintético de control o audiencia
+C0170,U063,2025-05-28,Control técnico,Asiste,-338,Registro sintético de control o audiencia
+C0171,U064,2025-12-28,Audiencia,No asiste,-124,Registro sintético de control o audiencia
+C0172,U064,2025-10-27,Audiencia,Asiste,-186,Registro sintético de control o audiencia
+C0173,U065,2026-01-21,Revisión de medida,Asiste,-100,Registro sintético de control o audiencia
+C0174,U065,2025-10-27,Revisión de medida,Asiste,-186,Registro sintético de control o audiencia
+C0175,U065,2025-10-13,Control técnico,No asiste,-200,Registro sintético de control o audiencia
+C0176,U065,2026-03-15,Revisión de medida,Asiste,-47,Registro sintético de control o audiencia
+C0177,U066,2026-05-18,Revisión de medida,Justificada,17,Registro sintético de control o audiencia
+C0178,U066,2026-05-29,Revisión de medida,No asiste,28,Registro sintético de control o audiencia
+C0179,U066,2026-05-17,Audiencia,Asiste,16,Registro sintético de control o audiencia
+C0180,U066,2026-01-16,Control técnico,Asiste,-105,Registro sintético de control o audiencia
+C0181,U067,2025-10-12,Audiencia,Asiste,-201,Registro sintético de control o audiencia
+C0182,U067,2025-08-16,Control técnico,No asiste,-258,Registro sintético de control o audiencia
+C0183,U067,2025-06-02,Citación,Asiste,-333,Registro sintético de control o audiencia
+C0184,U068,2026-04-06,Audiencia,No asiste,-25,Registro sintético de control o audiencia
+C0185,U068,2026-03-19,Audiencia,No asiste,-43,Registro sintético de control o audiencia
+C0186,U068,2026-07-31,Audiencia,Asiste,91,Registro sintético de control o audiencia
+C0187,U068,2026-08-21,Control técnico,Asiste,112,Registro sintético de control o audiencia
+C0188,U069,2025-12-25,Control técnico,Asiste,-127,Registro sintético de control o audiencia
+C0189,U070,2025-06-21,Control técnico,Asiste,-314,Registro sintético de control o audiencia
+C0190,U071,2026-05-21,Citación,Asiste,20,Registro sintético de control o audiencia
+C0191,U071,2026-03-16,Control técnico,Justificada,-46,Registro sintético de control o audiencia
+C0192,U071,2026-09-16,Citación,Asiste,138,Registro sintético de control o audiencia
+C0193,U071,2026-02-17,Citación,No asiste,-73,Registro sintético de control o audiencia
+C0194,U072,2026-06-10,Control técnico,No asiste,40,Registro sintético de control o audiencia
+C0195,U072,2026-08-24,Revisión de medida,Asiste,115,Registro sintético de control o audiencia
+C0196,U073,2026-11-14,Revisión de medida,No asiste,197,Registro sintético de control o audiencia
+C0197,U073,2026-09-29,Control técnico,No asiste,151,Registro sintético de control o audiencia
+C0198,U073,2026-06-19,Audiencia,Asiste,49,Registro sintético de control o audiencia
+C0199,U074,2026-05-01,Audiencia,Asiste,0,Registro sintético de control o audiencia
+C0200,U074,2026-10-31,Control técnico,Asiste,183,Registro sintético de control o audiencia
+C0201,U074,2026-12-22,Audiencia,Asiste,235,Registro sintético de control o audiencia
+C0202,U075,2026-04-20,Citación,Asiste,-11,Registro sintético de control o audiencia
+C0203,U075,2026-06-30,Control técnico,Asiste,60,Registro sintético de control o audiencia
+C0204,U075,2026-03-18,Audiencia,Asiste,-44,Registro sintético de control o audiencia
+C0205,U076,2026-05-07,Citación,Justificada,6,Registro sintético de control o audiencia
+C0206,U076,2026-07-03,Control técnico,Asiste,63,Registro sintético de control o audiencia
+C0207,U076,2026-12-14,Control técnico,Asiste,227,Registro sintético de control o audiencia
+C0208,U077,2025-11-04,Citación,Asiste,-178,Registro sintético de control o audiencia
+C0209,U077,2025-03-30,Control técnico,Asiste,-397,Registro sintético de control o audiencia
+C0210,U077,2025-06-27,Citación,Asiste,-308,Registro sintético de control o audiencia
+C0211,U078,2026-01-31,Citación,Asiste,-90,Registro sintético de control o audiencia
+C0212,U079,2025-12-07,Citación,No asiste,-145,Registro sintético de control o audiencia
+C0213,U079,2025-04-17,Citación,Asiste,-379,Registro sintético de control o audiencia
+C0214,U080,2026-07-17,Citación,Asiste,77,Registro sintético de control o audiencia
+C0215,U080,2026-03-31,Control técnico,Asiste,-31,Registro sintético de control o audiencia
+C0216,U080,2026-11-25,Revisión de medida,No asiste,208,Registro sintético de control o audiencia
+C0217,U080,2026-10-19,Citación,Asiste,171,Registro sintético de control o audiencia

@@ -1,0 +1,81 @@
+﻿id_plan,id_usuario,fecha_creacion_pii,fecha_ultima_actualizacion,estado_pii,porcentaje_avance,resultado_pii
+P001,U001,2025-04-23,2025-10-18,Vigente,85,No logrado
+P002,U002,2026-04-09,2026-04-14,Vigente,45,En proceso
+P003,U003,2026-01-03,2026-04-02,Vigente,91,En proceso
+P004,U004,2025-10-03,2026-03-29,Vigente,96,Parcialmente logrado
+P005,U005,2025-04-22,2025-06-03,Vencido,29,Logrado
+P006,U006,2025-03-30,2025-08-02,Vigente,65,Parcialmente logrado
+P007,U007,2025-07-19,2025-10-26,Vigente,14,Parcialmente logrado
+P008,U008,2025-02-04,2025-06-12,Vigente,74,Logrado
+P009,U009,2025-04-20,2025-08-30,No registrado,5,Logrado
+P010,U010,2025-05-13,2025-10-29,Vigente,75,En proceso
+P011,U011,2026-04-24,2026-04-11,Vigente,6,No logrado
+P012,U012,2025-08-27,2026-01-15,Vigente,21,Parcialmente logrado
+P013,U013,2025-12-04,2026-04-19,Vencido,13,No logrado
+P014,U014,2026-04-26,2026-04-08,Vigente,24,Logrado
+P015,U015,2025-04-21,2025-08-30,Vigente,99,Logrado
+P016,U016,2026-01-20,2026-03-30,Vigente,81,Parcialmente logrado
+P017,U017,2025-05-02,2025-10-08,Vigente,55,Logrado
+P018,U018,2026-01-02,2026-04-21,Vigente,60,Logrado
+P019,U019,2025-06-27,2025-10-11,Vencido,48,Parcialmente logrado
+P020,U020,2025-06-05,2025-11-20,Vigente,23,En proceso
+P021,U020,2025-06-08,2025-06-21,Vencido,19,En proceso
+P022,U022,2025-12-03,2026-01-31,Vencido,95,Logrado
+P023,U023,2025-09-23,2026-01-27,Vigente,99,Parcialmente logrado
+P024,U024,2025-12-29,2026-03-26,Vigente,41,No logrado
+P025,U025,2026-03-13,2026-04-19,Vigente,17,En proceso
+P026,U026,2025-11-15,2026-04-16,Vigente,25,En proceso
+P027,U027,2026-01-29,2026-03-20,Vigente,77,Parcialmente logrado
+P028,U028,2025-08-07,2025-09-22,Vencido,40,Parcialmente logrado
+P029,U029,2026-04-15,2026-04-17,Vigente,88,En proceso
+P030,U030,2025-10-10,2025-12-28,Vigente,88,Logrado
+P031,U031,2025-06-16,2025-12-05,Vigente,64,En proceso
+P032,U032,2026-04-21,2026-04-08,Vigente,10,Parcialmente logrado
+P033,U033,2025-11-17,2026-03-24,Vigente,73,Logrado
+P034,U034,2025-02-05,2025-05-01,Vencido,0,Logrado
+P035,U035,2025-10-04,2025-10-21,Vigente,0,Logrado
+P036,U036,2025-09-19,2025-10-26,Vigente,36,No logrado
+P037,U037,2025-12-20,2026-03-18,Vigente,78,Parcialmente logrado
+P038,U038,2025-03-06,2025-08-10,Vigente,1,Logrado
+P039,U039,2025-03-09,2025-04-07,Vigente,0,No logrado
+P040,U040,2025-06-26,2025-09-02,Vigente,50,Parcialmente logrado
+P041,U041,2025-07-23,2025-08-21,No registrado,87,No logrado
+P042,U042,2026-04-24,2026-03-28,Vigente,28,Logrado
+P043,U043,2025-10-09,2026-03-18,Vigente,83,No logrado
+P044,U044,2025-07-26,2025-09-25,Vencido,7,Parcialmente logrado
+P045,U045,2026-04-16,2026-04-23,Vigente,4,No logrado
+P046,U046,2025-07-20,2025-09-01,Vigente,89,No logrado
+P047,U047,2026-04-05,2026-04-13,Vigente,7,No logrado
+P048,U048,2025-03-04,2025-07-04,Vigente,71,Logrado
+P049,U049,2026-01-17,2026-02-28,Vigente,30,En proceso
+P050,U050,2025-03-14,2025-05-15,Vigente,89,Parcialmente logrado
+P051,U051,2025-09-07,2025-11-18,No registrado,40,Logrado
+P052,U052,2025-12-06,2025-12-28,Vencido,76,No logrado
+P053,U053,2025-05-24,2025-08-09,Vigente,3,Parcialmente logrado
+P054,U054,2025-11-26,2026-02-25,Vencido,22,No logrado
+P055,U055,2025-06-01,2025-08-24,Vigente,53,No logrado
+P056,U056,2025-02-19,2025-07-21,Vigente,70,No logrado
+P057,U057,2025-12-20,2026-04-02,Vigente,48,En proceso
+P058,U058,2025-07-07,2025-08-20,Vigente,89,No logrado
+P059,U059,2025-10-08,2026-02-04,Vigente,65,Parcialmente logrado
+P060,U060,2026-02-05,2026-02-17,Vigente,71,En proceso
+P061,U061,2025-04-05,2025-09-17,Vigente,25,Logrado
+P062,U062,2025-11-28,2026-04-19,Vigente,36,No logrado
+P063,U063,2025-01-30,2025-02-23,Vigente,86,Parcialmente logrado
+P064,U064,2025-09-17,2026-01-12,No registrado,20,No logrado
+P065,U065,2025-10-07,2026-01-04,Vigente,14,Logrado
+P066,U066,2025-12-20,2026-02-18,Vigente,20,Logrado
+P067,U067,2025-03-20,2025-04-17,Vigente,67,En proceso
+P068,U068,2026-02-15,2026-04-17,Vigente,28,No logrado
+P069,U069,2025-12-13,2026-04-15,Vigente,29,Parcialmente logrado
+P070,U070,2025-04-08,2025-07-03,Vigente,88,Parcialmente logrado
+P071,U071,2026-01-17,2026-02-02,Vigente,73,No logrado
+P072,U072,2026-04-06,2026-04-24,Vigente,41,Logrado
+P073,U073,2026-04-14,2026-04-11,Vigente,6,Parcialmente logrado
+P074,U074,2026-03-09,2026-03-20,Vigente,12,No logrado
+P075,U075,2025-10-17,2026-02-21,Vigente,91,Logrado
+P076,U076,2026-03-20,2026-04-13,Vigente,41,En proceso
+P077,U077,2025-03-04,2025-05-01,Vigente,36,En proceso
+P078,U078,2025-08-16,2026-01-24,Vencido,59,No logrado
+P079,U079,2025-04-05,2025-07-12,Vigente,35,Parcialmente logrado
+P080,U080,2026-03-01,2026-03-27,Vencido,32,No logrado

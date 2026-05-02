@@ -1,0 +1,254 @@
+﻿id_intervencion,id_usuario,fecha_intervencion,tipo_intervencion,responsable,resultado_intervencion,observacion_estado
+I0001,U001,2025-09-05,Familiar,Profesional D,Realizada,Registro sintético generado para análisis
+I0002,U001,2025-09-12,Judicial,Profesional D,Realizada,Registro sintético generado para análisis
+I0003,U001,2025-07-31,Individual,Profesional C,Realizada,Registro sintético generado para análisis
+I0004,U001,2025-10-24,Individual,Profesional C,Realizada,Registro sintético generado para análisis
+I0005,U001,2025-09-17,Individual,Profesional B,Realizada,Registro sintético generado para análisis
+I0006,U002,2026-04-29,Seguimiento telefónico,,Realizada,Registro sintético generado para análisis
+I0007,U002,2026-04-10,Seguimiento telefónico,Profesional C,No asiste,Registro sintético generado para análisis
+I0008,U003,2026-04-12,Judicial,Profesional A,Realizada,Registro sintético generado para análisis
+I0009,U003,2026-04-14,Individual,Profesional A,Realizada,Registro sintético generado para análisis
+I0010,U003,2025-12-22,Individual,Profesional C,Realizada,Registro sintético generado para análisis
+I0011,U003,2026-04-15,Judicial,Profesional D,Realizada,Registro sintético generado para análisis
+I0012,U004,2026-01-02,Judicial,Profesional B,Realizada,Registro sintético generado para análisis
+I0013,U004,2025-12-01,Familiar,Profesional D,Realizada,Registro sintético generado para análisis
+I0014,U005,2025-12-05,Coordinación con red,Profesional B,Realizada,Registro sintético generado para análisis
+I0015,U006,2025-08-25,Seguimiento telefónico,Profesional D,Realizada,Registro sintético generado para análisis
+I0016,U007,2025-11-30,Coordinación con red,Profesional A,Reprogramada,Registro sintético generado para análisis
+I0017,U007,2025-11-04,Seguimiento telefónico,Profesional C,No asiste,Registro sintético generado para análisis
+I0018,U007,2025-07-22,Familiar,Profesional C,Realizada,Registro sintético generado para análisis
+I0019,U007,2025-11-08,Individual,Profesional B,No asiste,Registro sintético generado para análisis
+I0020,U007,2026-02-21,Individual,Profesional C,Realizada,Registro sintético generado para análisis
+I0021,U008,2025-04-21,Coordinación con red,Profesional C,Realizada,Registro sintético generado para análisis
+I0022,U009,2025-07-24,Individual,Profesional C,Realizada,Registro sintético generado para análisis
+I0023,U010,2025-06-30,Judicial,Profesional A,Realizada,Registro sintético generado para análisis
+I0024,U010,2025-09-16,Coordinación con red,Profesional A,Realizada,Registro sintético generado para análisis
+I0025,U010,2025-06-28,Seguimiento telefónico,Profesional B,No asiste,Registro sintético generado para análisis
+I0026,U010,2025-09-28,Seguimiento telefónico,Profesional B,Realizada,Registro sintético generado para análisis
+I0027,U010,2025-05-07,Coordinación con red,Profesional A,Realizada,Registro sintético generado para análisis
+I0028,U011,2026-04-14,Familiar,Profesional D,Realizada,Registro sintético generado para análisis
+I0029,U011,2026-04-05,Familiar,Profesional B,Realizada,Registro sintético generado para análisis
+I0030,U011,2026-04-19,Coordinación con red,Profesional B,No asiste,Registro sintético generado para análisis
+I0031,U011,2026-04-19,Seguimiento telefónico,Profesional B,No asiste,Registro sintético generado para análisis
+I0032,U011,2026-04-14,Seguimiento telefónico,Profesional A,Realizada,Registro sintético generado para análisis
+I0033,U011,2026-04-12,Judicial,Profesional B,Realizada,Registro sintético generado para análisis
+I0034,U012,2025-10-28,Coordinación con red,Profesional C,No asiste,Registro sintético generado para análisis
+I0035,U012,2025-09-28,Individual,Profesional B,Realizada,Registro sintético generado para análisis
+I0036,U013,2025-12-31,Familiar,Profesional C,Realizada,Registro sintético generado para análisis
+I0037,U013,2025-12-30,Judicial,Profesional B,Reprogramada,Registro sintético generado para análisis
+I0038,U013,2026-02-13,Individual,Profesional D,Realizada,Registro sintético generado para análisis
+I0039,U013,2026-02-08,Familiar,Profesional B,Realizada,Registro sintético generado para análisis
+I0040,U014,2026-04-20,Coordinación con red,Profesional D,Realizada,Registro sintético generado para análisis
+I0041,U014,2026-04-06,Coordinación con red,Profesional B,Realizada,Registro sintético generado para análisis
+I0042,U014,2026-04-23,Judicial,Profesional D,Realizada,Registro sintético generado para análisis
+I0043,U014,2026-04-28,Coordinación con red,Profesional A,Reprogramada,Registro sintético generado para análisis
+I0044,U014,2026-04-05,Coordinación con red,Profesional C,No asiste,Registro sintético generado para análisis
+I0045,U015,2025-07-03,Familiar,Profesional A,Realizada,Registro sintético generado para análisis
+I0046,U015,2025-06-11,Individual,Profesional A,Realizada,Registro sintético generado para análisis
+I0047,U016,2026-02-27,Familiar,Profesional A,Realizada,Registro sintético generado para análisis
+I0048,U016,2026-02-26,Coordinación con red,Profesional A,Realizada,Registro sintético generado para análisis
+I0049,U017,2025-11-14,Coordinación con red,Profesional C,Realizada,Registro sintético generado para análisis
+I0050,U018,2026-01-25,Judicial,Profesional A,Realizada,Registro sintético generado para análisis
+I0051,U019,2025-12-02,Familiar,Profesional D,Realizada,Registro sintético generado para análisis
+I0052,U019,2026-01-07,Familiar,Profesional A,Realizada,Registro sintético generado para análisis
+I0053,U019,2025-12-09,Coordinación con red,Profesional C,Realizada,Registro sintético generado para análisis
+I0054,U020,2025-08-30,Judicial,Profesional A,No asiste,Registro sintético generado para análisis
+I0055,U020,2025-06-22,Coordinación con red,Profesional C,Realizada,Registro sintético generado para análisis
+I0056,U020,2025-12-18,Seguimiento telefónico,Profesional D,Realizada,Registro sintético generado para análisis
+I0057,U020,2025-11-16,Individual,Profesional C,Realizada,Registro sintético generado para análisis
+I0058,U020,2025-09-18,Judicial,Profesional A,No asiste,Registro sintético generado para análisis
+I0059,U020,2025-12-13,Individual,Profesional D,Realizada,Registro sintético generado para análisis
+I0060,U020,2025-09-20,Familiar,Profesional C,Realizada,Registro sintético generado para análisis
+I0061,U022,2025-12-13,Individual,Profesional D,Realizada,Registro sintético generado para análisis
+I0062,U022,2026-04-27,Seguimiento telefónico,Profesional B,No asiste,Registro sintético generado para análisis
+I0063,U022,2026-01-12,Familiar,Profesional C,Realizada,Registro sintético generado para análisis
+I0064,U022,2026-02-26,Seguimiento telefónico,Profesional A,Realizada,Registro sintético generado para análisis
+I0065,U022,2026-04-08,Seguimiento telefónico,Profesional B,Realizada,Registro sintético generado para análisis
+I0066,U022,2026-03-01,Judicial,Profesional B,Realizada,Registro sintético generado para análisis
+I0067,U023,2025-12-22,Individual,Profesional C,Realizada,Registro sintético generado para análisis
+I0068,U023,2025-10-20,Seguimiento telefónico,Profesional D,Reprogramada,Registro sintético generado para análisis
+I0069,U023,2025-09-25,Familiar,Profesional D,Reprogramada,Registro sintético generado para análisis
+I0070,U023,2025-09-23,Individual,Profesional B,Realizada,Registro sintético generado para análisis
+I0071,U023,2026-03-17,Individual,Profesional B,Realizada,Registro sintético generado para análisis
+I0072,U023,2026-02-02,Familiar,Profesional C,No asiste,Registro sintético generado para análisis
+I0073,U024,2026-02-22,Familiar,Profesional B,Pendiente,Registro sintético generado para análisis
+I0074,U024,2026-04-30,Judicial,Profesional A,Realizada,Registro sintético generado para análisis
+I0075,U024,2025-12-15,Familiar,Profesional B,Realizada,Registro sintético generado para análisis
+I0076,U024,2026-01-20,Coordinación con red,Profesional C,Realizada,Registro sintético generado para análisis
+I0077,U024,2026-04-28,Individual,Profesional B,Realizada,Registro sintético generado para análisis
+I0078,U025,2026-02-27,Familiar,Profesional D,Realizada,Registro sintético generado para análisis
+I0079,U025,2026-04-29,Judicial,Profesional A,Realizada,Registro sintético generado para análisis
+I0080,U026,2025-11-11,Individual,Profesional C,Realizada,Registro sintético generado para análisis
+I0081,U027,2026-04-14,Seguimiento telefónico,Profesional B,Pendiente,Registro sintético generado para análisis
+I0082,U027,2026-04-17,Seguimiento telefónico,Profesional D,Reprogramada,Registro sintético generado para análisis
+I0083,U027,2026-04-19,Coordinación con red,Profesional C,Reprogramada,Registro sintético generado para análisis
+I0084,U027,2026-03-30,Judicial,Profesional D,Pendiente,Registro sintético generado para análisis
+I0085,U027,2026-02-05,Individual,Profesional A,Realizada,Registro sintético generado para análisis
+I0086,U027,2026-02-24,Coordinación con red,Profesional A,Realizada,Registro sintético generado para análisis
+I0087,U028,2025-11-15,Familiar,Profesional B,Realizada,Registro sintético generado para análisis
+I0088,U028,2025-08-26,Individual,Profesional B,No asiste,Registro sintético generado para análisis
+I0089,U028,2025-08-23,Coordinación con red,Profesional A,Realizada,Registro sintético generado para análisis
+I0090,U029,2026-04-14,Individual,Profesional C,Realizada,Registro sintético generado para análisis
+I0091,U030,2025-11-30,Coordinación con red,Profesional C,Realizada,Registro sintético generado para análisis
+I0092,U030,2026-02-19,Coordinación con red,Profesional C,Pendiente,Registro sintético generado para análisis
+I0093,U030,2025-11-19,Judicial,Profesional C,No asiste,Registro sintético generado para análisis
+I0094,U030,2025-11-10,Judicial,Profesional B,No asiste,Registro sintético generado para análisis
+I0095,U030,2026-03-21,Seguimiento telefónico,Profesional B,Pendiente,Registro sintético generado para análisis
+I0096,U030,2026-04-04,Individual,Profesional B,Realizada,Registro sintético generado para análisis
+I0097,U031,2025-06-24,Seguimiento telefónico,Profesional C,Pendiente,Registro sintético generado para análisis
+I0098,U031,2025-10-10,Seguimiento telefónico,Profesional C,Realizada,Registro sintético generado para análisis
+I0099,U032,2026-04-11,Seguimiento telefónico,Profesional D,Realizada,Registro sintético generado para análisis
+I0100,U032,2026-04-27,Judicial,Profesional A,Pendiente,Registro sintético generado para análisis
+I0101,U032,2026-04-12,Coordinación con red,Profesional D,Realizada,Registro sintético generado para análisis
+I0102,U032,2026-04-04,Seguimiento telefónico,Profesional D,Realizada,Registro sintético generado para análisis
+I0103,U032,2026-04-23,Familiar,Profesional B,Realizada,Registro sintético generado para análisis
+I0104,U033,2026-04-04,Familiar,Profesional A,Realizada,Registro sintético generado para análisis
+I0105,U033,2026-02-26,Judicial,Profesional C,Reprogramada,Registro sintético generado para análisis
+I0106,U034,2025-04-04,Seguimiento telefónico,Profesional D,Realizada,Registro sintético generado para análisis
+I0107,U034,2025-06-02,Familiar,Profesional A,Realizada,Registro sintético generado para análisis
+I0108,U034,2025-05-28,Individual,Profesional B,Realizada,Registro sintético generado para análisis
+I0109,U034,2025-08-20,Individual,Profesional B,No asiste,Registro sintético generado para análisis
+I0110,U035,2025-10-30,Seguimiento telefónico,Profesional A,Realizada,Registro sintético generado para análisis
+I0111,U036,2026-02-26,Individual,Profesional A,No asiste,Registro sintético generado para análisis
+I0112,U036,2025-10-22,Coordinación con red,Profesional D,Realizada,Registro sintético generado para análisis
+I0113,U036,2026-02-19,Individual,Profesional A,Realizada,Registro sintético generado para análisis
+I0114,U036,2026-02-24,Individual,Profesional A,Realizada,Registro sintético generado para análisis
+I0115,U037,2026-02-16,Judicial,Profesional A,No asiste,Registro sintético generado para análisis
+I0116,U037,2026-01-22,Familiar,Profesional C,Realizada,Registro sintético generado para análisis
+I0117,U037,2026-04-04,Individual,Profesional D,Realizada,Registro sintético generado para análisis
+I0118,U038,2025-08-20,Individual,Profesional C,Realizada,Registro sintético generado para análisis
+I0119,U038,2025-05-21,Individual,Profesional A,Pendiente,Registro sintético generado para análisis
+I0120,U038,2025-10-15,Familiar,Profesional D,Realizada,Registro sintético generado para análisis
+I0121,U038,2025-04-12,Individual,Profesional D,Realizada,Registro sintético generado para análisis
+I0122,U039,2025-06-30,Judicial,Profesional C,Reprogramada,Registro sintético generado para análisis
+I0123,U039,2025-04-22,Individual,Profesional D,Realizada,Registro sintético generado para análisis
+I0124,U039,2025-10-05,Coordinación con red,Profesional C,Pendiente,Registro sintético generado para análisis
+I0125,U039,2025-05-05,Seguimiento telefónico,Profesional A,Realizada,Registro sintético generado para análisis
+I0126,U040,2025-11-14,Coordinación con red,Profesional B,Realizada,Registro sintético generado para análisis
+I0127,U040,2025-10-16,Familiar,Profesional B,Realizada,Registro sintético generado para análisis
+I0128,U040,2025-10-14,Familiar,Profesional B,Realizada,Registro sintético generado para análisis
+I0129,U040,2025-08-25,Judicial,Profesional A,Realizada,Registro sintético generado para análisis
+I0130,U040,2025-08-17,Coordinación con red,Profesional D,Realizada,Registro sintético generado para análisis
+I0131,U040,2026-01-20,Familiar,Profesional D,No asiste,Registro sintético generado para análisis
+I0132,U041,2025-08-12,Familiar,Profesional C,Realizada,Registro sintético generado para análisis
+I0133,U041,2025-09-14,Individual,Profesional C,Realizada,Registro sintético generado para análisis
+I0134,U041,2026-02-11,Coordinación con red,Profesional C,Realizada,Registro sintético generado para análisis
+I0135,U041,2025-09-03,Individual,Profesional C,Realizada,Registro sintético generado para análisis
+I0136,U042,2026-04-03,Familiar,Profesional C,Realizada,Registro sintético generado para análisis
+I0137,U042,2026-04-07,Coordinación con red,Profesional D,Realizada,Registro sintético generado para análisis
+I0138,U042,2026-04-09,Seguimiento telefónico,Profesional B,Realizada,Registro sintético generado para análisis
+I0139,U043,2025-10-09,Familiar,Profesional C,Pendiente,Registro sintético generado para análisis
+I0140,U043,2025-12-26,Coordinación con red,Profesional D,Realizada,Registro sintético generado para análisis
+I0141,U044,2025-08-11,Judicial,Profesional B,No asiste,Registro sintético generado para análisis
+I0142,U044,2025-08-29,Seguimiento telefónico,Profesional D,Realizada,Registro sintético generado para análisis
+I0143,U044,2025-11-20,Coordinación con red,Profesional C,Realizada,Registro sintético generado para análisis
+I0144,U044,2025-08-02,Seguimiento telefónico,Profesional A,Realizada,Registro sintético generado para análisis
+I0145,U045,2026-04-29,Seguimiento telefónico,Profesional D,Realizada,Registro sintético generado para análisis
+I0146,U045,2026-04-19,Individual,Profesional B,Realizada,Registro sintético generado para análisis
+I0147,U045,2026-04-17,Individual,Profesional B,Realizada,Registro sintético generado para análisis
+I0148,U045,2026-04-09,Individual,Profesional D,Realizada,Registro sintético generado para análisis
+I0149,U045,2026-04-20,Individual,Profesional B,Realizada,Registro sintético generado para análisis
+I0150,U045,2026-03-30,Familiar,Profesional B,No asiste,Registro sintético generado para análisis
+I0151,U046,2026-01-29,Seguimiento telefónico,Profesional C,No asiste,Registro sintético generado para análisis
+I0152,U046,2025-11-03,Seguimiento telefónico,Profesional B,Realizada,Registro sintético generado para análisis
+I0153,U047,2026-04-29,Individual,Profesional A,Realizada,Registro sintético generado para análisis
+I0154,U047,2026-04-19,Seguimiento telefónico,Profesional B,Realizada,Registro sintético generado para análisis
+I0155,U047,2026-04-22,Individual,Profesional C,No asiste,Registro sintético generado para análisis
+I0156,U047,2026-04-29,Judicial,Profesional A,Realizada,Registro sintético generado para análisis
+I0157,U047,2026-04-21,Seguimiento telefónico,Profesional A,Realizada,Registro sintético generado para análisis
+I0158,U047,2026-04-05,Familiar,Profesional D,Reprogramada,Registro sintético generado para análisis
+I0159,U048,2025-04-16,Seguimiento telefónico,Profesional D,Pendiente,Registro sintético generado para análisis
+I0160,U049,2026-04-20,Coordinación con red,Profesional D,No asiste,Registro sintético generado para análisis
+I0161,U049,2026-04-24,Coordinación con red,Profesional B,Realizada,Registro sintético generado para análisis
+I0162,U049,2026-04-24,Seguimiento telefónico,Profesional D,Realizada,Registro sintético generado para análisis
+I0163,U049,2026-02-08,Judicial,Profesional C,Realizada,Registro sintético generado para análisis
+I0164,U049,2026-04-14,Coordinación con red,Profesional A,Realizada,Registro sintético generado para análisis
+I0165,U050,2025-08-01,Familiar,Profesional A,Realizada,Registro sintético generado para análisis
+I0166,U051,2026-01-12,Individual,Profesional A,Realizada,Registro sintético generado para análisis
+I0167,U052,2025-12-15,Coordinación con red,Profesional C,Realizada,Registro sintético generado para análisis
+I0168,U052,2026-03-08,Judicial,Profesional C,Realizada,Registro sintético generado para análisis
+I0169,U053,2025-05-27,Coordinación con red,Profesional A,Realizada,Registro sintético generado para análisis
+I0170,U053,2025-07-03,Seguimiento telefónico,Profesional A,Reprogramada,Registro sintético generado para análisis
+I0171,U054,2025-12-24,Judicial,Profesional B,Reprogramada,Registro sintético generado para análisis
+I0172,U055,2025-05-27,Seguimiento telefónico,Profesional A,Realizada,Registro sintético generado para análisis
+I0173,U055,2025-09-14,Individual,Profesional B,Realizada,Registro sintético generado para análisis
+I0174,U055,2025-10-09,Coordinación con red,Profesional B,Realizada,Registro sintético generado para análisis
+I0175,U056,2025-03-13,Familiar,Profesional D,Reprogramada,Registro sintético generado para análisis
+I0176,U056,2025-06-25,Familiar,Profesional A,Realizada,Registro sintético generado para análisis
+I0177,U057,2026-02-16,Seguimiento telefónico,Profesional C,Realizada,Registro sintético generado para análisis
+I0178,U057,2026-04-23,Familiar,Profesional C,Reprogramada,Registro sintético generado para análisis
+I0179,U057,2026-02-19,Judicial,Profesional C,Realizada,Registro sintético generado para análisis
+I0180,U057,2026-04-21,Individual,Profesional B,Realizada,Registro sintético generado para análisis
+I0181,U057,2026-04-19,Judicial,Profesional A,Realizada,Registro sintético generado para análisis
+I0182,U057,2026-01-05,Coordinación con red,Profesional D,Realizada,Registro sintético generado para análisis
+I0183,U058,2025-07-29,Individual,Profesional D,Pendiente,Registro sintético generado para análisis
+I0184,U058,2025-11-20,Seguimiento telefónico,Profesional B,Realizada,Registro sintético generado para análisis
+I0185,U058,2025-12-07,Judicial,Profesional B,Realizada,Registro sintético generado para análisis
+I0186,U058,2026-02-02,Familiar,Profesional B,Realizada,Registro sintético generado para análisis
+I0187,U059,2026-02-23,Familiar,Profesional D,Reprogramada,Registro sintético generado para análisis
+I0188,U059,2026-02-05,Judicial,Profesional A,Pendiente,Registro sintético generado para análisis
+I0189,U059,2026-04-10,Judicial,Profesional A,Realizada,Registro sintético generado para análisis
+I0190,U059,2026-02-03,Familiar,Profesional B,Realizada,Registro sintético generado para análisis
+I0191,U059,2026-01-16,Judicial,Profesional A,Pendiente,Registro sintético generado para análisis
+I0192,U060,2026-01-30,Seguimiento telefónico,Profesional B,Realizada,Registro sintético generado para análisis
+I0193,U061,2025-06-10,Familiar,Profesional B,Realizada,Registro sintético generado para análisis
+I0194,U061,2025-09-26,Individual,Profesional A,Reprogramada,Registro sintético generado para análisis
+I0195,U062,2026-04-08,Individual,Profesional A,Realizada,Registro sintético generado para análisis
+I0196,U063,2025-07-24,Familiar,Profesional A,Pendiente,Registro sintético generado para análisis
+I0197,U063,2025-07-08,Judicial,Profesional B,Reprogramada,Registro sintético generado para análisis
+I0198,U063,2025-03-22,Coordinación con red,Profesional B,Realizada,Registro sintético generado para análisis
+I0199,U063,2025-06-20,Judicial,Profesional D,Realizada,Registro sintético generado para análisis
+I0200,U064,2025-12-05,Seguimiento telefónico,Profesional C,Realizada,Registro sintético generado para análisis
+I0201,U064,2025-11-16,Coordinación con red,Profesional B,Realizada,Registro sintético generado para análisis
+I0202,U064,2026-02-19,Individual,Profesional B,Pendiente,Registro sintético generado para análisis
+I0203,U064,2025-09-09,Seguimiento telefónico,Profesional A,Realizada,Registro sintético generado para análisis
+I0204,U065,2025-10-05,Coordinación con red,Profesional D,Reprogramada,Registro sintético generado para análisis
+I0205,U066,2026-04-18,Familiar,Profesional C,Pendiente,Registro sintético generado para análisis
+I0206,U066,2026-02-16,Individual,Profesional D,No asiste,Registro sintético generado para análisis
+I0207,U066,2026-04-25,Seguimiento telefónico,Profesional D,Pendiente,Registro sintético generado para análisis
+I0208,U066,2026-03-15,Individual,Profesional D,Realizada,Registro sintético generado para análisis
+I0209,U066,2026-03-24,Coordinación con red,Profesional A,Realizada,Registro sintético generado para análisis
+I0210,U067,2025-10-04,Seguimiento telefónico,Profesional A,Realizada,Registro sintético generado para análisis
+I0211,U067,2025-10-10,Judicial,Profesional B,No asiste,Registro sintético generado para análisis
+I0212,U067,2025-04-07,Individual,Profesional A,Pendiente,Registro sintético generado para análisis
+I0213,U068,2026-04-03,Coordinación con red,Profesional A,Realizada,Registro sintético generado para análisis
+I0214,U068,2026-04-25,Seguimiento telefónico,Profesional D,Realizada,Registro sintético generado para análisis
+I0215,U069,2026-04-18,Individual,Profesional B,Realizada,Registro sintético generado para análisis
+I0216,U069,2026-04-02,Coordinación con red,Profesional B,Realizada,Registro sintético generado para análisis
+I0217,U069,2026-01-19,Familiar,Profesional D,Realizada,Registro sintético generado para análisis
+I0218,U069,2026-01-12,Coordinación con red,Profesional D,Realizada,Registro sintético generado para análisis
+I0219,U070,2025-06-04,Coordinación con red,Profesional D,Pendiente,Registro sintético generado para análisis
+I0220,U071,2026-02-20,Individual,Profesional A,Realizada,Registro sintético generado para análisis
+I0221,U071,2026-04-04,Judicial,Profesional C,No asiste,Registro sintético generado para análisis
+I0222,U071,2026-02-20,Familiar,Profesional A,Realizada,Registro sintético generado para análisis
+I0223,U072,2026-04-20,Seguimiento telefónico,Profesional B,No asiste,Registro sintético generado para análisis
+I0224,U072,2026-04-27,Familiar,Profesional B,Pendiente,Registro sintético generado para análisis
+I0225,U073,2026-04-29,Seguimiento telefónico,Profesional B,Realizada,Registro sintético generado para análisis
+I0226,U073,2026-04-14,Familiar,Profesional D,Realizada,Registro sintético generado para análisis
+I0227,U073,2026-04-28,Coordinación con red,Profesional B,Realizada,Registro sintético generado para análisis
+I0228,U073,2026-04-29,Judicial,Profesional D,Realizada,Registro sintético generado para análisis
+I0229,U074,2026-04-09,Judicial,Profesional D,Realizada,Registro sintético generado para análisis
+I0230,U074,2026-04-04,Individual,Profesional D,Realizada,Registro sintético generado para análisis
+I0231,U074,2026-04-09,Individual,Profesional B,Realizada,Registro sintético generado para análisis
+I0232,U074,2026-04-13,Seguimiento telefónico,Profesional D,Pendiente,Registro sintético generado para análisis
+I0233,U074,2026-04-11,Seguimiento telefónico,Profesional D,Realizada,Registro sintético generado para análisis
+I0234,U075,2025-10-28,Coordinación con red,Profesional C,Realizada,Registro sintético generado para análisis
+I0235,U075,2025-10-21,Familiar,Profesional B,Realizada,Registro sintético generado para análisis
+I0236,U075,2025-09-29,Individual,Profesional C,Realizada,Registro sintético generado para análisis
+I0237,U076,2026-04-20,Judicial,Profesional D,Realizada,Registro sintético generado para análisis
+I0238,U076,2026-04-11,Coordinación con red,Profesional C,No asiste,Registro sintético generado para análisis
+I0239,U076,2026-04-19,Judicial,Profesional A,Reprogramada,Registro sintético generado para análisis
+I0240,U076,2026-04-26,Coordinación con red,Profesional D,Realizada,Registro sintético generado para análisis
+I0241,U076,2026-04-26,Coordinación con red,Profesional C,Realizada,Registro sintético generado para análisis
+I0242,U077,2025-07-24,Familiar,Profesional A,Realizada,Registro sintético generado para análisis
+I0243,U077,2025-03-05,Judicial,Profesional B,No asiste,Registro sintético generado para análisis
+I0244,U077,2025-09-04,Coordinación con red,Profesional D,Realizada,Registro sintético generado para análisis
+I0245,U077,2025-09-13,Individual,Profesional A,Pendiente,Registro sintético generado para análisis
+I0246,U078,2026-01-19,Familiar,Profesional D,Realizada,Registro sintético generado para análisis
+I0247,U078,2025-10-30,Judicial,Profesional A,No asiste,Registro sintético generado para análisis
+I0248,U078,2025-11-28,Coordinación con red,Profesional D,Pendiente,Registro sintético generado para análisis
+I0249,U079,2025-11-03,Individual,Profesional B,Realizada,Registro sintético generado para análisis
+I0250,U080,2026-03-09,Individual,Profesional D,Realizada,Registro sintético generado para análisis
+I0251,U080,2026-04-29,Coordinación con red,Profesional D,Realizada,Registro sintético generado para análisis
+I0252,U080,2026-04-10,Familiar,Profesional B,Realizada,Registro sintético generado para análisis
+I0253,U080,2026-04-16,Coordinación con red,Profesional A,Pendiente,Registro sintético generado para análisis

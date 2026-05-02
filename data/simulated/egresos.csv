@@ -1,0 +1,13 @@
+﻿id_egreso,id_usuario,fecha_egreso,causal_egreso,dias_permanencia,pii_logrado
+E005,U005,2025-04-07,Cumplimiento de medida,-10,No
+E006,U006,2025-11-23,Cumplimiento de medida,255,Parcial
+E012,U012,2026-03-04,Derivación,213,Sí
+E022,U022,2026-04-02,Otra causal,148,Parcial
+E024,U024,2026-04-12,Otra causal,123,Sí
+E028,U028,2026-04-09,Otra causal,272,Sí
+E029,U029,2026-04-19,Otra causal,30,Sí
+E031,U031,2026-04-03,Otra causal,297,Sí
+E056,U056,2025-08-31,Otra causal,222,Parcial
+E060,U060,2026-04-06,Incumplimiento,73,No
+E064,U064,2026-03-27,Cumplimiento de medida,209,Parcial
+E074,U074,2026-04-16,Incumplimiento,43,No

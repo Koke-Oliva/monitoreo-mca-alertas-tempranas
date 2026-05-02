@@ -1,0 +1,28 @@
+﻿id_usuario,comuna,estado_caso,profesional_responsable,puntaje_alerta,motivos_alerta,accion_sugerida
+U050,Coronel,Vigente,Profesional A,9,Más de 21 días sin intervención reciente; Dos o más inasistencias registradas; Permanencia prolongada; Más de 21 días sin contacto reciente,Priorizar revisión técnica y coordinación del caso.
+U009,Chiguayante,Vigente,Profesional A,8,Más de 21 días sin intervención reciente; PII vencido o no registrado; Permanencia prolongada; Más de 21 días sin contacto reciente,Priorizar revisión técnica y coordinación del caso.
+U019,Chiguayante,Vigente,Profesional B,8,Más de 21 días sin intervención reciente; PII vencido o no registrado; Permanencia prolongada; Más de 21 días sin contacto reciente,Priorizar revisión técnica y coordinación del caso.
+U016,San Pedro de la Paz,Vigente,,8,Más de 21 días sin intervención reciente; Datos críticos incompletos; Caso sin profesional responsable; Más de 21 días sin contacto reciente,Priorizar revisión técnica y coordinación del caso.
+U062,Chiguayante,Vigente,Profesional A,8,Más de 21 días sin intervención reciente; Dos o más inasistencias registradas; Más de 21 días sin contacto reciente,Priorizar revisión técnica y coordinación del caso.
+U078,Coronel,Vigente,Profesional C,8,Más de 21 días sin intervención reciente; PII vencido o no registrado; Permanencia prolongada; Más de 21 días sin contacto reciente,Priorizar revisión técnica y coordinación del caso.
+U033,Lota,Vigente,Profesional B,8,Más de 21 días sin intervención reciente; Dos o más inasistencias registradas; Más de 21 días sin contacto reciente,Priorizar revisión técnica y coordinación del caso.
+U034,Chiguayante,Vigente,Profesional D,8,Más de 21 días sin intervención reciente; PII vencido o no registrado; Permanencia prolongada; Más de 21 días sin contacto reciente,Priorizar revisión técnica y coordinación del caso.
+U041,Coronel,Vigente,Profesional D,8,Más de 21 días sin intervención reciente; PII vencido o no registrado; Permanencia prolongada; Más de 21 días sin contacto reciente,Priorizar revisión técnica y coordinación del caso.
+U044,Coronel,Vigente,Profesional B,8,Más de 21 días sin intervención reciente; PII vencido o no registrado; Permanencia prolongada; Más de 21 días sin contacto reciente,Priorizar revisión técnica y coordinación del caso.
+U013,San Pedro de la Paz,Vigente,Profesional C,7,Más de 21 días sin intervención reciente; PII vencido o no registrado; Más de 21 días sin contacto reciente,Priorizar revisión técnica y coordinación del caso.
+U054,Talcahuano,Vigente,Profesional D,7,Más de 21 días sin intervención reciente; PII vencido o no registrado; Más de 21 días sin contacto reciente,Priorizar revisión técnica y coordinación del caso.
+U070,Concepción,Vigente,Profesional A,6,Más de 21 días sin intervención reciente; Permanencia prolongada; Más de 21 días sin contacto reciente,Priorizar revisión técnica y coordinación del caso.
+U001,Coronel,Vigente,Profesional A,6,Más de 21 días sin intervención reciente; Permanencia prolongada; Más de 21 días sin contacto reciente,Priorizar revisión técnica y coordinación del caso.
+U039,San Pedro de la Paz,Vigente,Profesional B,6,Más de 21 días sin intervención reciente; Permanencia prolongada; Más de 21 días sin contacto reciente,Priorizar revisión técnica y coordinación del caso.
+U046,Talcahuano,Vigente,Profesional B,6,Más de 21 días sin intervención reciente; Permanencia prolongada; Más de 21 días sin contacto reciente,Priorizar revisión técnica y coordinación del caso.
+U007,Chiguayante,Vigente,Profesional A,6,Más de 21 días sin intervención reciente; Permanencia prolongada; Más de 21 días sin contacto reciente,Priorizar revisión técnica y coordinación del caso.
+U058,Concepción,Vigente,Profesional D,6,Más de 21 días sin intervención reciente; Permanencia prolongada; Más de 21 días sin contacto reciente,Priorizar revisión técnica y coordinación del caso.
+U036,Chiguayante,Vigente,Profesional A,6,Más de 21 días sin intervención reciente; Permanencia prolongada; Más de 21 días sin contacto reciente,Priorizar revisión técnica y coordinación del caso.
+U061,Hualpén,Vigente,Profesional C,6,Más de 21 días sin intervención reciente; Permanencia prolongada; Más de 21 días sin contacto reciente,Priorizar revisión técnica y coordinación del caso.
+U053,Talcahuano,Vigente,Profesional D,6,Más de 21 días sin intervención reciente; Permanencia prolongada; Más de 21 días sin contacto reciente,Priorizar revisión técnica y coordinación del caso.
+U079,San Pedro de la Paz,Vigente,Profesional B,6,Más de 21 días sin intervención reciente; Permanencia prolongada; Más de 21 días sin contacto reciente,Priorizar revisión técnica y coordinación del caso.
+U067,Hualpén,Vigente,Profesional D,6,Más de 21 días sin intervención reciente; Permanencia prolongada; Más de 21 días sin contacto reciente,Priorizar revisión técnica y coordinación del caso.
+U055,Hualpén,Vigente,Profesional A,6,Más de 21 días sin intervención reciente; Permanencia prolongada; Más de 21 días sin contacto reciente,Priorizar revisión técnica y coordinación del caso.
+U010,Chiguayante,Vigente,Profesional C,6,Más de 21 días sin intervención reciente; Permanencia prolongada; Más de 21 días sin contacto reciente,Priorizar revisión técnica y coordinación del caso.
+U077,Coronel,Vigente,Profesional C,6,Más de 21 días sin intervención reciente; Permanencia prolongada; Más de 21 días sin contacto reciente,Priorizar revisión técnica y coordinación del caso.
+U051,Lota,Suspendido,Profesional B,6,Dos o más inasistencias registradas; PII vencido o no registrado; Permanencia prolongada,Priorizar revisión técnica y coordinación del caso.

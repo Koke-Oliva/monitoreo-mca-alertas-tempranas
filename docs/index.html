@@ -1,0 +1,705 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Monitoreo de Gestión y Alertas Tempranas MCA</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background-color: #f4f6f8;
+            color: #222;
+            line-height: 1.6;
+        }
+
+        header {
+            background-color: #1f2937;
+            color: white;
+            padding: 40px 60px;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 32px;
+        }
+
+        header p {
+            margin-top: 12px;
+            font-size: 16px;
+            max-width: 900px;
+        }
+
+        main {
+            max-width: 1100px;
+            margin: 30px auto;
+            padding: 0 20px;
+        }
+
+        section {
+            background-color: white;
+            margin-bottom: 24px;
+            padding: 28px;
+            border-radius: 10px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+        }
+
+        h2 {
+            color: #1f2937;
+            border-bottom: 2px solid #e5e7eb;
+            padding-bottom: 8px;
+        }
+
+        h3 {
+            color: #374151;
+            margin-top: 24px;
+        }
+
+        .kpi-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+            gap: 18px;
+            margin-top: 20px;
+        }
+
+        .kpi-card {
+            background-color: #f9fafb;
+            border-left: 5px solid #1f2937;
+            padding: 18px;
+            border-radius: 8px;
+        }
+
+        .kpi-title {
+            font-size: 14px;
+            color: #4b5563;
+            margin-bottom: 8px;
+        }
+
+        .kpi-value {
+            font-size: 30px;
+            font-weight: bold;
+            color: #111827;
+        }
+
+        .kpi-subtitle {
+            font-size: 13px;
+            color: #6b7280;
+            margin-top: 6px;
+        }
+
+        .tabla {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 15px;
+            font-size: 14px;
+        }
+
+        .tabla th {
+            background-color: #1f2937;
+            color: white;
+            padding: 10px;
+            text-align: left;
+        }
+
+        .tabla td {
+            border-bottom: 1px solid #e5e7eb;
+            padding: 9px;
+            vertical-align: top;
+        }
+
+        .tabla tr:nth-child(even) {
+            background-color: #f9fafb;
+        }
+
+        .nota {
+            background-color: #eef2ff;
+            border-left: 5px solid #4338ca;
+            padding: 14px;
+            margin-top: 16px;
+            border-radius: 6px;
+        }
+
+        .advertencia {
+            background-color: #fff7ed;
+            border-left: 5px solid #f97316;
+            padding: 14px;
+            margin-top: 16px;
+            border-radius: 6px;
+        }
+
+        footer {
+            text-align: center;
+            padding: 24px;
+            color: #6b7280;
+            font-size: 13px;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>Monitoreo de Gestión y Alertas Tempranas para Programa MCA</h1>
+    <p>
+        Mini proyecto de administración, validación y análisis de información operativa
+        para un programa de Medida Cautelar Ambulatoria, utilizando datos sintéticos.
+    </p>
+</header>
+
+<main>
+
+<section>
+    <h2>1. Resumen ejecutivo</h2>
+
+    <p>
+        Este proyecto simula un flujo de trabajo orientado a la gestión de información
+        de un programa MCA. El proceso considera generación de datos sintéticos,
+        validación de calidad, consolidación de bases, cálculo de indicadores,
+        generación de alertas tempranas y exportación de resultados a formatos
+        revisables por equipos técnicos o administrativos.
+    </p>
+
+    <div class="kpi-container">
+        
+    <div class="kpi-card">
+        <div class="kpi-title">Usuarios consolidados</div>
+        <div class="kpi-value">79</div>
+        <div class="kpi-subtitle">Base maestra sin duplicados</div>
+    </div>
+    
+        
+    <div class="kpi-card">
+        <div class="kpi-title">Casos vigentes</div>
+        <div class="kpi-value">59</div>
+        <div class="kpi-subtitle">Casos activos que requieren seguimiento</div>
+    </div>
+    
+        
+    <div class="kpi-card">
+        <div class="kpi-title">Alertas altas</div>
+        <div class="kpi-value">27</div>
+        <div class="kpi-subtitle">Casos priorizados para revisión</div>
+    </div>
+    
+        
+    <div class="kpi-card">
+        <div class="kpi-title">Indicadores críticos</div>
+        <div class="kpi-value">8</div>
+        <div class="kpi-subtitle">Indicadores bajo umbral esperado</div>
+    </div>
+    
+        
+    <div class="kpi-card">
+        <div class="kpi-title">Inconsistencias detectadas</div>
+        <div class="kpi-value">154</div>
+        <div class="kpi-subtitle">Registros observados en validación</div>
+    </div>
+    
+        
+    <div class="kpi-card">
+        <div class="kpi-title">Inconsistencias críticas</div>
+        <div class="kpi-value">15</div>
+        <div class="kpi-subtitle">Errores de mayor prioridad</div>
+    </div>
+    
+    </div>
+
+    <div class="nota">
+        El proyecto no utiliza datos reales de adolescentes, instituciones ni causas judiciales.
+        Toda la información fue generada de forma sintética para fines demostrativos.
+    </div>
+</section>
+
+
+<section>
+    <h2>2. Flujo general del proyecto</h2>
+
+    <p>El flujo aplicado fue el siguiente:</p>
+
+    <ol>
+        <li>Generación de bases sintéticas operativas.</li>
+        <li>Validación de calidad de información.</li>
+        <li>Consolidación de bases en una tabla maestra.</li>
+        <li>Cálculo de indicadores de gestión.</li>
+        <li>Generación de alertas tempranas basadas en reglas.</li>
+        <li>Creación de base SQLite y ejecución de consultas SQL.</li>
+        <li>Exportación de resultados a CSV, Excel e informe HTML.</li>
+    </ol>
+</section>
+
+
+<section>
+    <h2>3. Indicadores de gestión</h2>
+
+    <p>
+        Los indicadores fueron definidos con dimensión, fórmula, resultado,
+        unidad, meta referencial, periodicidad sugerida, fuente simulada
+        e interpretación.
+    </p>
+
+    <h3>Resumen de indicadores por estado</h3>
+    <table class="dataframe tabla">
+  <thead>
+    <tr style="text-align: left;">
+      <th>estado</th>
+      <th>cantidad_indicadores</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Crítico</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>Cumple</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>En observación</td>
+      <td>2</td>
+    </tr>
+  </tbody>
+</table>
+
+    <h3>Indicadores críticos</h3>
+    <table class="dataframe tabla">
+  <thead>
+    <tr style="text-align: left;">
+      <th>dimension</th>
+      <th>indicador</th>
+      <th>resultado</th>
+      <th>unidad</th>
+      <th>meta_referencial</th>
+      <th>estado</th>
+      <th>interpretacion</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Seguimiento</td>
+      <td>% de casos vigentes con intervención reciente</td>
+      <td>25.42</td>
+      <td>%</td>
+      <td>80</td>
+      <td>Crítico</td>
+      <td>Evalúa oportunidad del seguimiento técnico reciente.</td>
+    </tr>
+    <tr>
+      <td>Seguimiento</td>
+      <td>% de casos vigentes sin contacto reciente</td>
+      <td>67.80</td>
+      <td>%</td>
+      <td>15</td>
+      <td>Crítico</td>
+      <td>Identifica casos activos que requieren revisión por falta de contacto reciente.</td>
+    </tr>
+    <tr>
+      <td>Plan de Intervención Individual</td>
+      <td>% de casos con PII vencido o no registrado</td>
+      <td>18.99</td>
+      <td>%</td>
+      <td>10</td>
+      <td>Crítico</td>
+      <td>Detecta brechas de actualización o registro del plan de intervención.</td>
+    </tr>
+    <tr>
+      <td>Asistencia y controles</td>
+      <td>Casos con inasistencias reiteradas</td>
+      <td>7.00</td>
+      <td>casos</td>
+      <td>5</td>
+      <td>Crítico</td>
+      <td>Identifica casos que requieren priorización por reiteración de inasistencias.</td>
+    </tr>
+    <tr>
+      <td>Calidad de información</td>
+      <td>Casos sin profesional responsable</td>
+      <td>1.00</td>
+      <td>casos</td>
+      <td>0</td>
+      <td>Crítico</td>
+      <td>Controla asignación mínima de responsable para seguimiento de casos.</td>
+    </tr>
+    <tr>
+      <td>Calidad de información</td>
+      <td>IDs duplicados detectados</td>
+      <td>1.00</td>
+      <td>casos</td>
+      <td>0</td>
+      <td>Crítico</td>
+      <td>Permite monitorear duplicidades en la base principal de usuarios.</td>
+    </tr>
+    <tr>
+      <td>Permanencia</td>
+      <td>Promedio de días de permanencia estimada</td>
+      <td>223.85</td>
+      <td>días</td>
+      <td>180</td>
+      <td>Crítico</td>
+      <td>Aproxima duración promedio de los casos en seguimiento.</td>
+    </tr>
+    <tr>
+      <td>Permanencia</td>
+      <td>Casos con permanencia prolongada</td>
+      <td>33.00</td>
+      <td>casos</td>
+      <td>10</td>
+      <td>Crítico</td>
+      <td>Identifica casos que podrían requerir revisión por extensión del seguimiento.</td>
+    </tr>
+  </tbody>
+</table>
+</section>
+
+
+<section>
+    <h2>4. Calidad de información</h2>
+
+    <p>
+        La validación de calidad permite identificar problemas de registro,
+        duplicidades, datos faltantes, inconsistencias temporales y brechas
+        de seguimiento operativo.
+    </p>
+
+    <h3>Principales inconsistencias detectadas</h3>
+    <table class="dataframe tabla">
+  <thead>
+    <tr style="text-align: left;">
+      <th>nivel</th>
+      <th>tipo_inconsistencia</th>
+      <th>cantidad</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Medio</td>
+      <td>PII sin actualización reciente</td>
+      <td>43</td>
+    </tr>
+    <tr>
+      <td>Medio</td>
+      <td>Inasistencia registrada</td>
+      <td>41</td>
+    </tr>
+    <tr>
+      <td>Medio</td>
+      <td>Caso vigente sin contacto reciente</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td>Medio</td>
+      <td>PII vencido</td>
+      <td>12</td>
+    </tr>
+    <tr>
+      <td>Crítico</td>
+      <td>Intervención anterior al ingreso</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>Crítico</td>
+      <td>PII no registrado</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>Crítico</td>
+      <td>Edad fuera de rango</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>Crítico</td>
+      <td>ID duplicado</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>Crítico</td>
+      <td>Caso vigente sin profesional responsable</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Crítico</td>
+      <td>Días de permanencia negativos</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Crítico</td>
+      <td>Egreso anterior al ingreso</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Informativo</td>
+      <td>Audiencia próxima</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Medio</td>
+      <td>Comuna faltante</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Medio</td>
+      <td>Intervención sin responsable</td>
+      <td>1</td>
+    </tr>
+  </tbody>
+</table>
+
+    <div class="advertencia">
+        Las inconsistencias fueron generadas de forma controlada para demostrar
+        la capacidad del flujo de detectar problemas operativos y de calidad de datos.
+    </div>
+</section>
+
+
+<section>
+    <h2>5. Sistema de alertas tempranas</h2>
+
+    <p>
+        El sistema de alertas tempranas se basa en reglas simples, explicables
+        y trazables. Cada caso recibe un puntaje según criterios operativos
+        como ausencia de intervención reciente, inasistencias, PII vencido,
+        falta de contacto, permanencia prolongada o datos críticos incompletos.
+    </p>
+
+    <h3>Distribución por nivel de alerta</h3>
+    <table class="dataframe tabla">
+  <thead>
+    <tr style="text-align: left;">
+      <th>nivel_alerta</th>
+      <th>cantidad_casos</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Alto</td>
+      <td>27</td>
+    </tr>
+    <tr>
+      <td>Bajo</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td>Medio</td>
+      <td>22</td>
+    </tr>
+  </tbody>
+</table>
+
+    <h3>Casos priorizados con alerta alta</h3>
+    <table class="dataframe tabla">
+  <thead>
+    <tr style="text-align: left;">
+      <th>id_usuario</th>
+      <th>comuna</th>
+      <th>estado_caso</th>
+      <th>profesional_responsable</th>
+      <th>puntaje_alerta</th>
+      <th>motivos_alerta</th>
+      <th>accion_sugerida</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>U050</td>
+      <td>Coronel</td>
+      <td>Vigente</td>
+      <td>Profesional A</td>
+      <td>9</td>
+      <td>Más de 21 días sin intervención reciente; Dos o más inasistencias registradas; Permanencia prolongada; Más de 21 días sin contacto reciente</td>
+      <td>Priorizar revisión técnica y coordinación del caso.</td>
+    </tr>
+    <tr>
+      <td>U009</td>
+      <td>Chiguayante</td>
+      <td>Vigente</td>
+      <td>Profesional A</td>
+      <td>8</td>
+      <td>Más de 21 días sin intervención reciente; PII vencido o no registrado; Permanencia prolongada; Más de 21 días sin contacto reciente</td>
+      <td>Priorizar revisión técnica y coordinación del caso.</td>
+    </tr>
+    <tr>
+      <td>U019</td>
+      <td>Chiguayante</td>
+      <td>Vigente</td>
+      <td>Profesional B</td>
+      <td>8</td>
+      <td>Más de 21 días sin intervención reciente; PII vencido o no registrado; Permanencia prolongada; Más de 21 días sin contacto reciente</td>
+      <td>Priorizar revisión técnica y coordinación del caso.</td>
+    </tr>
+    <tr>
+      <td>U016</td>
+      <td>San Pedro de la Paz</td>
+      <td>Vigente</td>
+      <td>NaN</td>
+      <td>8</td>
+      <td>Más de 21 días sin intervención reciente; Datos críticos incompletos; Caso sin profesional responsable; Más de 21 días sin contacto reciente</td>
+      <td>Priorizar revisión técnica y coordinación del caso.</td>
+    </tr>
+    <tr>
+      <td>U062</td>
+      <td>Chiguayante</td>
+      <td>Vigente</td>
+      <td>Profesional A</td>
+      <td>8</td>
+      <td>Más de 21 días sin intervención reciente; Dos o más inasistencias registradas; Más de 21 días sin contacto reciente</td>
+      <td>Priorizar revisión técnica y coordinación del caso.</td>
+    </tr>
+    <tr>
+      <td>U078</td>
+      <td>Coronel</td>
+      <td>Vigente</td>
+      <td>Profesional C</td>
+      <td>8</td>
+      <td>Más de 21 días sin intervención reciente; PII vencido o no registrado; Permanencia prolongada; Más de 21 días sin contacto reciente</td>
+      <td>Priorizar revisión técnica y coordinación del caso.</td>
+    </tr>
+    <tr>
+      <td>U033</td>
+      <td>Lota</td>
+      <td>Vigente</td>
+      <td>Profesional B</td>
+      <td>8</td>
+      <td>Más de 21 días sin intervención reciente; Dos o más inasistencias registradas; Más de 21 días sin contacto reciente</td>
+      <td>Priorizar revisión técnica y coordinación del caso.</td>
+    </tr>
+    <tr>
+      <td>U034</td>
+      <td>Chiguayante</td>
+      <td>Vigente</td>
+      <td>Profesional D</td>
+      <td>8</td>
+      <td>Más de 21 días sin intervención reciente; PII vencido o no registrado; Permanencia prolongada; Más de 21 días sin contacto reciente</td>
+      <td>Priorizar revisión técnica y coordinación del caso.</td>
+    </tr>
+    <tr>
+      <td>U041</td>
+      <td>Coronel</td>
+      <td>Vigente</td>
+      <td>Profesional D</td>
+      <td>8</td>
+      <td>Más de 21 días sin intervención reciente; PII vencido o no registrado; Permanencia prolongada; Más de 21 días sin contacto reciente</td>
+      <td>Priorizar revisión técnica y coordinación del caso.</td>
+    </tr>
+    <tr>
+      <td>U044</td>
+      <td>Coronel</td>
+      <td>Vigente</td>
+      <td>Profesional B</td>
+      <td>8</td>
+      <td>Más de 21 días sin intervención reciente; PII vencido o no registrado; Permanencia prolongada; Más de 21 días sin contacto reciente</td>
+      <td>Priorizar revisión técnica y coordinación del caso.</td>
+    </tr>
+    <tr>
+      <td>U013</td>
+      <td>San Pedro de la Paz</td>
+      <td>Vigente</td>
+      <td>Profesional C</td>
+      <td>7</td>
+      <td>Más de 21 días sin intervención reciente; PII vencido o no registrado; Más de 21 días sin contacto reciente</td>
+      <td>Priorizar revisión técnica y coordinación del caso.</td>
+    </tr>
+    <tr>
+      <td>U054</td>
+      <td>Talcahuano</td>
+      <td>Vigente</td>
+      <td>Profesional D</td>
+      <td>7</td>
+      <td>Más de 21 días sin intervención reciente; PII vencido o no registrado; Más de 21 días sin contacto reciente</td>
+      <td>Priorizar revisión técnica y coordinación del caso.</td>
+    </tr>
+    <tr>
+      <td>U070</td>
+      <td>Concepción</td>
+      <td>Vigente</td>
+      <td>Profesional A</td>
+      <td>6</td>
+      <td>Más de 21 días sin intervención reciente; Permanencia prolongada; Más de 21 días sin contacto reciente</td>
+      <td>Priorizar revisión técnica y coordinación del caso.</td>
+    </tr>
+    <tr>
+      <td>U001</td>
+      <td>Coronel</td>
+      <td>Vigente</td>
+      <td>Profesional A</td>
+      <td>6</td>
+      <td>Más de 21 días sin intervención reciente; Permanencia prolongada; Más de 21 días sin contacto reciente</td>
+      <td>Priorizar revisión técnica y coordinación del caso.</td>
+    </tr>
+    <tr>
+      <td>U039</td>
+      <td>San Pedro de la Paz</td>
+      <td>Vigente</td>
+      <td>Profesional B</td>
+      <td>6</td>
+      <td>Más de 21 días sin intervención reciente; Permanencia prolongada; Más de 21 días sin contacto reciente</td>
+      <td>Priorizar revisión técnica y coordinación del caso.</td>
+    </tr>
+  </tbody>
+</table>
+</section>
+
+
+<section>
+    <h2>6. Componente SQL</h2>
+
+    <p>
+        Además del procesamiento en Python, se creó una base SQLite llamada
+        <strong>mca_monitoreo.db</strong>, cargando las tablas principales del proyecto.
+        Sobre esta base se ejecutaron consultas SQL orientadas a revisar indicadores,
+        casos sin seguimiento reciente, PII vencidos, inasistencias, distribución
+        de alertas e indicadores críticos.
+    </p>
+
+    <p>
+        Los resultados de las consultas fueron exportados al archivo:
+        <strong>resultados_consultas_sql.xlsx</strong>.
+    </p>
+</section>
+
+
+<section>
+    <h2>7. Entregables generados</h2>
+
+    <ul>
+        <li><strong>usuarios_mca.csv</strong>: base sintética de usuarios.</li>
+        <li><strong>intervenciones.csv</strong>: intervenciones técnicas simuladas.</li>
+        <li><strong>planes_intervencion.csv</strong>: planes de intervención individual.</li>
+        <li><strong>controles_audiencias.csv</strong>: controles, citaciones y audiencias.</li>
+        <li><strong>egresos.csv</strong>: egresos simulados.</li>
+        <li><strong>reporte_validacion.xlsx</strong>: reporte de inconsistencias.</li>
+        <li><strong>base_consolidada_mca.xlsx</strong>: base maestra de seguimiento.</li>
+        <li><strong>indicadores_gestion.xlsx</strong>: indicadores calculados.</li>
+        <li><strong>alertas_tempranas.xlsx</strong>: clasificación de alertas por caso.</li>
+        <li><strong>mca_monitoreo.db</strong>: base SQLite del proyecto.</li>
+        <li><strong>resultados_consultas_sql.xlsx</strong>: resultados de consultas SQL.</li>
+    </ul>
+</section>
+
+
+<section>
+    <h2>8. Conclusiones</h2>
+
+    <p>
+        El proyecto demuestra un flujo de trabajo práctico para transformar
+        registros operativos en información útil para la gestión institucional.
+        La propuesta permite validar datos, consolidar fuentes, calcular indicadores,
+        identificar brechas de seguimiento y priorizar casos mediante alertas tempranas.
+    </p>
+
+    <p>
+        El foco del proyecto no está en construir un sistema complejo, sino en mostrar
+        una metodología ordenada, reproducible y compatible con flujos administrativos
+        habituales, donde los resultados puedan ser revisados mediante Excel, CSV,
+        SQL e informe ejecutivo.
+    </p>
+</section>
+
+</main>
+
+<footer>
+    Informe generado automáticamente el 01-05-2026 21:24.
+</footer>
+
+</body>
+</html>
